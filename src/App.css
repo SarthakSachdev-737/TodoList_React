@@ -1,0 +1,13 @@
+.s-container{
+  margin-left: 300px;
+  margin-top: 20px;
+  text-align: left;
+}
+
+.s-row{
+  margin: 10px;
+}
+
+.s-col-2 button{
+  min-width: 80px;
+}
